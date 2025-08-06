@@ -18,7 +18,7 @@ input:
     jmp input
 
 intro_loading:
-    db "---- Ki-OS v.0.0.1b ----", 10, 13, 0
+    db "---- K-OS-turne | v.0.0.1b ----", 10, 13, 0
 
 jmp $
 
